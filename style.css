@@ -75,38 +75,38 @@ header label{
     padding: 20px;
 }
 /* banner */
-#bannber{
+#banner{
     background-color: rgb(243, 231, 180);
 }
 
 
-#bannber .left{
+#banner .left{
     width: 50%;
 }
 
-#bannber .left img{
+#banner .left img{
     max-width: 80%;
 }
-#bannber .right{
+#banner .right{
     width: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-#bannber .right h1{
+#banner .right h1{
     text-transform: uppercase;
     font-size: 50px;
     font-weight: 500px;
 }
-#bannber .right h1:nth-child(1){
+#banner .right h1:nth-child(1){
     color: rgb(130, 17, 235);
 }
 
-#bannber .right h1:nth-child(2){
+#banner .right h1:nth-child(2){
     color: #ee0a0a;
 }
 
-#bannber .right a{
+#banner .right a{
     display: inline-block;
     text-decoration: none;
     width: 18%;
@@ -117,7 +117,7 @@ header label{
     border-radius: 8px;
     margin-top: 20px;
 }
-#bannber .right a:hover {
+#banner .right a:hover {
     background-color: rgb(135, 13, 235);
     color: rgb(61, 10, 230);
     border-radius: 10px;

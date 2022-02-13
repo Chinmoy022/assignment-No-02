@@ -36,18 +36,18 @@
     
     }
 
-    #bannber{
+    #banner{
         padding: 30px 0;
     }
-    #bannber .flex{
+    #banner .flex{
         flex-direction: column-reverse;
     }
 
-    #bannber .left, #bannber .right{
+    #banner .left, #bannber .right{
         width: 100%;
     }
 
-    #bannber .left img{
+    #banner .left img{
         display: block;
         margin: 0 auto;
     }
@@ -55,7 +55,7 @@
     #bannber .right h1{
         font-size: 40px;
     }
-    #bannber .right a{
+    #banner .right a{
         width: 35%;
     }
 
